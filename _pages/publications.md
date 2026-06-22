@@ -88,9 +88,3 @@ Sosnovsky, S., Müter, L., Valkenier, M., Brinkhuis, M., & **Hofman, A. D.** (20
 Böing-Messing, F., van Assen, M. A., **Hofman, A. D.**, Hoijtink, H., & Mulder, J. (2017). Bayesian evaluation of constrained hypotheses on variances of multiple independent groups. *Psychological Methods*, 22(2), 262.
 
 De Boeck, P., Bakker, M., Zwitser, R., Nivard, M., Hofman, A., Tuerlinckx, F., & Partchev, I. (2011). The estimation of item response models with the lmer function from the lme4 package in R. *Journal of Statistical Software*, 39, 1–28.
-
-## In Preparation
-
-Savi, A. O., & **Hofman, A. D.** The Matthew-effect in Online Learning.
-
-Schiefner, A., **Hofman, A. D.**, Savi, A. O., Beyza, S., & Roelofsen, F. Teaching Dutch Sign Language to primary school children through a serious game.
